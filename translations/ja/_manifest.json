@@ -1,0 +1,1937 @@
+{
+  "upstream_commit": "ce7073d51254c26cd63b22a60835b8f948deb447",
+  "files": [
+    {
+      "source": "README.md",
+      "target": "translations/ja/overview.md",
+      "lines": 78,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/AGENTS.md",
+      "target": "translations/ja/agents-doc.md",
+      "lines": 78,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/api-gateway.md",
+      "target": "translations/ja/api-gateway.md",
+      "lines": 173,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/architecture.md",
+      "target": "translations/ja/architecture.md",
+      "lines": 170,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/capability-seams.md",
+      "target": "translations/ja/capability-seams.md",
+      "lines": 763,
+      "status": "done",
+      "generated": true
+    },
+    {
+      "source": "docs/cli-help.md",
+      "target": "translations/ja/cli-help.md",
+      "lines": 212,
+      "status": "done",
+      "generated": true
+    },
+    {
+      "source": "docs/cookbook/adding-a-package.md",
+      "target": "translations/ja/cookbook/adding-a-package.md",
+      "lines": 173,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-plugin-preview.md",
+      "target": "translations/ja/cookbook/adding-a-plugin-preview.md",
+      "lines": 46,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-remote-api.md",
+      "target": "translations/ja/cookbook/adding-a-remote-api.md",
+      "lines": 198,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-session-format-version.md",
+      "target": "translations/ja/cookbook/adding-a-session-format-version.md",
+      "lines": 154,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-settings-card.md",
+      "target": "translations/ja/cookbook/adding-a-settings-card.md",
+      "lines": 73,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-tool.md",
+      "target": "translations/ja/cookbook/adding-a-tool.md",
+      "lines": 102,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-a-vendored-package.md",
+      "target": "translations/ja/cookbook/adding-a-vendored-package.md",
+      "lines": 60,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/adding-an-llm-adapter.md",
+      "target": "translations/ja/cookbook/adding-an-llm-adapter.md",
+      "lines": 44,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/extension-cookbook.md",
+      "target": "translations/ja/cookbook/extension-cookbook.md",
+      "lines": 133,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/maintaining-dsh-code-review.md",
+      "target": "translations/ja/cookbook/maintaining-dsh-code-review.md",
+      "lines": 65,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/responding-to-pr-review-on-a-stack.md",
+      "target": "translations/ja/cookbook/responding-to-pr-review-on-a-stack.md",
+      "lines": 33,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cookbook/reviewing-persistence-type-changes.md",
+      "target": "translations/ja/cookbook/reviewing-persistence-type-changes.md",
+      "lines": 123,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-primer.md",
+      "target": "translations/ja/cordis-primer.md",
+      "lines": 46,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/01-first-plugin.md",
+      "target": "translations/ja/cordis-tutorial/01-first-plugin.md",
+      "lines": 96,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/02-lifecycle-and-effects.md",
+      "target": "translations/ja/cordis-tutorial/02-lifecycle-and-effects.md",
+      "lines": 99,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/03-services.md",
+      "target": "translations/ja/cordis-tutorial/03-services.md",
+      "lines": 99,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/04-events.md",
+      "target": "translations/ja/cordis-tutorial/04-events.md",
+      "lines": 145,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/05-config.md",
+      "target": "translations/ja/cordis-tutorial/05-config.md",
+      "lines": 112,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/06-composition-and-hmr.md",
+      "target": "translations/ja/cordis-tutorial/06-composition-and-hmr.md",
+      "lines": 114,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/07-into-the-harness.md",
+      "target": "translations/ja/cordis-tutorial/07-into-the-harness.md",
+      "lines": 110,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/cordis-tutorial/index.md",
+      "target": "translations/ja/cordis-tutorial/index.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/deepseek-llm-api-wire-extensions.md",
+      "target": "translations/ja/deepseek-llm-api-wire-extensions.md",
+      "lines": 163,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/README.md",
+      "target": "translations/ja/defensive-patterns/index.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/client-components.md",
+      "target": "translations/ja/defensive-patterns/client-components.md",
+      "lines": 494,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/conversation-and-session.md",
+      "target": "translations/ja/defensive-patterns/conversation-and-session.md",
+      "lines": 317,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/general.md",
+      "target": "translations/ja/defensive-patterns/general.md",
+      "lines": 225,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/package-surface.md",
+      "target": "translations/ja/defensive-patterns/package-surface.md",
+      "lines": 233,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/defensive-patterns/remote-and-api.md",
+      "target": "translations/ja/defensive-patterns/remote-and-api.md",
+      "lines": 118,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/development.md",
+      "target": "translations/ja/development.md",
+      "lines": 220,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/event-producer-consumer.md",
+      "target": "translations/ja/event-producer-consumer.md",
+      "lines": 122,
+      "status": "done",
+      "generated": true
+    },
+    {
+      "source": "docs/glossary.md",
+      "target": "translations/ja/glossary.md",
+      "lines": 47,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-11-initial.md",
+      "target": "translations/ja/persistence-changes/2026-09-11-initial.md",
+      "lines": 281,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-12-auto-review-error-metadata.md",
+      "target": "translations/ja/persistence-changes/2026-09-12-auto-review-error-metadata.md",
+      "lines": 53,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-13-working-directory.md",
+      "target": "translations/ja/persistence-changes/2026-09-13-working-directory.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-14-image-offload.md",
+      "target": "translations/ja/persistence-changes/2026-09-14-image-offload.md",
+      "lines": 97,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-14-workspace-changes-event.md",
+      "target": "translations/ja/persistence-changes/2026-09-14-workspace-changes-event.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-16-session-format-v4.md",
+      "target": "translations/ja/persistence-changes/2026-09-16-session-format-v4.md",
+      "lines": 121,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-18-schedule-optional-title.md",
+      "target": "translations/ja/persistence-changes/2026-09-18-schedule-optional-title.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-19-external-subagent-catalog.md",
+      "target": "translations/ja/persistence-changes/2026-09-19-external-subagent-catalog.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-20-unknown-child-catalog.md",
+      "target": "translations/ja/persistence-changes/2026-09-20-unknown-child-catalog.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-21-user-question-reply.md",
+      "target": "translations/ja/persistence-changes/2026-09-21-user-question-reply.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-09-30-job-session-lifecycle.md",
+      "target": "translations/ja/persistence-changes/2026-09-30-job-session-lifecycle.md",
+      "lines": 53,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-05-ptc-operation-metadata.md",
+      "target": "translations/ja/persistence-changes/2026-10-05-ptc-operation-metadata.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-05-working-directory-attribution.md",
+      "target": "translations/ja/persistence-changes/2026-10-05-working-directory-attribution.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-07-title-reasoning-effort.md",
+      "target": "translations/ja/persistence-changes/2026-10-07-title-reasoning-effort.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-13-deepseek-search-thinking.md",
+      "target": "translations/ja/persistence-changes/2026-10-13-deepseek-search-thinking.md",
+      "lines": 49,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-13-liveshare-share-viewer-principal.md",
+      "target": "translations/ja/persistence-changes/2026-10-13-liveshare-share-viewer-principal.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-13-user-rpc-principal.md",
+      "target": "translations/ja/persistence-changes/2026-10-13-user-rpc-principal.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-22-action-card-status.md",
+      "target": "translations/ja/persistence-changes/2026-10-22-action-card-status.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/2026-10-25-skill-catalog-incomplete.md",
+      "target": "translations/ja/persistence-changes/2026-10-25-skill-catalog-incomplete.md",
+      "lines": 61,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/README.md",
+      "target": "translations/ja/persistence-changes/index.md",
+      "lines": 93,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/README.md",
+      "target": "translations/ja/persistence-changes/releases/index.md",
+      "lines": 104,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.0.1-rc.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.0.1-rc.1.md",
+      "lines": 202,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.0.1-rc.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.0.1-rc.2.md",
+      "lines": 262,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.0.1-rc.3.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.0.1-rc.3.md",
+      "lines": 127,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.0.1-rc.4.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.0.1-rc.4.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.0.1-rc.5.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.0.1-rc.5.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.1.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.2.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.3.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.3.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.5.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.5.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.6.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.6.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.7.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.7.md",
+      "lines": 83,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.0-rc.8.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.0-rc.8.md",
+      "lines": 111,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.1-rc.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.1-rc.1.md",
+      "lines": 83,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.1-rc.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.1-rc.2.md",
+      "lines": 120,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-alpha.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-alpha.1.md",
+      "lines": 296,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-alpha.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-alpha.2.md",
+      "lines": 287,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-alpha.3.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-alpha.3.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-alpha.4.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-alpha.4.md",
+      "lines": 96,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-alpha.5.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-alpha.5.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.2-rc.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.2-rc.1.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.3-alpha.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.3-alpha.1.md",
+      "lines": 155,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.3-alpha.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.3-alpha.2.md",
+      "lines": 87,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.5-alpha.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.5-alpha.1.md",
+      "lines": 140,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.5-alpha.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.5-alpha.2.md",
+      "lines": 96,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.5-rc.1.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.5-rc.1.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/persistence-changes/releases/dsh-v0.1.5-rc.2.md",
+      "target": "translations/ja/persistence-changes/releases/dsh-v0.1.5-rc.2.md",
+      "lines": 76,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/postmortem/0001-acp-default-export-drops-inject.md",
+      "target": "translations/ja/postmortem/0001-acp-default-export-drops-inject.md",
+      "lines": 114,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/postmortem/0002-js-expression-disabled-filesystem-tools.md",
+      "target": "translations/ja/postmortem/0002-js-expression-disabled-filesystem-tools.md",
+      "lines": 48,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/postmortem/0003-web-agent-gui-feedback-loop.md",
+      "target": "translations/ja/postmortem/0003-web-agent-gui-feedback-loop.md",
+      "lines": 54,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/postmortem/0004-landlock-partial-notice-misclassified-child-failures.md",
+      "target": "translations/ja/postmortem/0004-landlock-partial-notice-misclassified-child-failures.md",
+      "lines": 56,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/postmortem/README.md",
+      "target": "translations/ja/postmortem/index.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/rescope.md",
+      "target": "translations/ja/rescope.md",
+      "lines": 56,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/session-format-status.md",
+      "target": "translations/ja/session-format-status.md",
+      "lines": 64,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/README.md",
+      "target": "translations/ja/subsystems/index.md",
+      "lines": 79,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/agent-team.md",
+      "target": "translations/ja/subsystems/agent-team.md",
+      "lines": 232,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/approval.md",
+      "target": "translations/ja/subsystems/approval.md",
+      "lines": 171,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/attachment.md",
+      "target": "translations/ja/subsystems/attachment.md",
+      "lines": 385,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/boot.md",
+      "target": "translations/ja/subsystems/boot.md",
+      "lines": 622,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/browser-use.md",
+      "target": "translations/ja/subsystems/browser-use.md",
+      "lines": 68,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/claude-code-mods.md",
+      "target": "translations/ja/subsystems/claude-code-mods.md",
+      "lines": 147,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/client-modules.md",
+      "target": "translations/ja/subsystems/client-modules.md",
+      "lines": 207,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/client-resources.md",
+      "target": "translations/ja/subsystems/client-resources.md",
+      "lines": 93,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/commands.md",
+      "target": "translations/ja/subsystems/commands.md",
+      "lines": 224,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/compaction.md",
+      "target": "translations/ja/subsystems/compaction.md",
+      "lines": 285,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/computer-use.md",
+      "target": "translations/ja/subsystems/computer-use.md",
+      "lines": 136,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/conversation.md",
+      "target": "translations/ja/subsystems/conversation.md",
+      "lines": 302,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/core.md",
+      "target": "translations/ja/subsystems/core.md",
+      "lines": 1190,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/credentials.md",
+      "target": "translations/ja/subsystems/credentials.md",
+      "lines": 494,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/deliverables.md",
+      "target": "translations/ja/subsystems/deliverables.md",
+      "lines": 181,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/extensions.md",
+      "target": "translations/ja/subsystems/extensions.md",
+      "lines": 385,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/feedback.md",
+      "target": "translations/ja/subsystems/feedback.md",
+      "lines": 401,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/filesystem.md",
+      "target": "translations/ja/subsystems/filesystem.md",
+      "lines": 705,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/forge.md",
+      "target": "translations/ja/subsystems/forge.md",
+      "lines": 1182,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/goal.md",
+      "target": "translations/ja/subsystems/goal.md",
+      "lines": 314,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/jobs.md",
+      "target": "translations/ja/subsystems/jobs.md",
+      "lines": 555,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/liveshare.md",
+      "target": "translations/ja/subsystems/liveshare.md",
+      "lines": 159,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/llm-streaming.md",
+      "target": "translations/ja/subsystems/llm-streaming.md",
+      "lines": 1285,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/lsp.md",
+      "target": "translations/ja/subsystems/lsp.md",
+      "lines": 203,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/mcp.md",
+      "target": "translations/ja/subsystems/mcp.md",
+      "lines": 140,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/office-to-pdf.md",
+      "target": "translations/ja/subsystems/office-to-pdf.md",
+      "lines": 88,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/otel.md",
+      "target": "translations/ja/subsystems/otel.md",
+      "lines": 45,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/permission-presets.md",
+      "target": "translations/ja/subsystems/permission-presets.md",
+      "lines": 168,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/persistence.md",
+      "target": "translations/ja/subsystems/persistence.md",
+      "lines": 429,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/plan.md",
+      "target": "translations/ja/subsystems/plan.md",
+      "lines": 88,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/product-telemetry.md",
+      "target": "translations/ja/subsystems/product-telemetry.md",
+      "lines": 82,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/ptc-runtime.md",
+      "target": "translations/ja/subsystems/ptc-runtime.md",
+      "lines": 258,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/sandbox.md",
+      "target": "translations/ja/subsystems/sandbox.md",
+      "lines": 229,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/schedule.md",
+      "target": "translations/ja/subsystems/schedule.md",
+      "lines": 315,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/scope.md",
+      "target": "translations/ja/subsystems/scope.md",
+      "lines": 60,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session-projection.md",
+      "target": "translations/ja/subsystems/session-projection.md",
+      "lines": 471,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session-query.md",
+      "target": "translations/ja/subsystems/session-query.md",
+      "lines": 512,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session-reference.md",
+      "target": "translations/ja/subsystems/session-reference.md",
+      "lines": 226,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session-telemetry.md",
+      "target": "translations/ja/subsystems/session-telemetry.md",
+      "lines": 213,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session-title.md",
+      "target": "translations/ja/subsystems/session-title.md",
+      "lines": 214,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/session.md",
+      "target": "translations/ja/subsystems/session.md",
+      "lines": 1428,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/settings.md",
+      "target": "translations/ja/subsystems/settings.md",
+      "lines": 156,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/shell.md",
+      "target": "translations/ja/subsystems/shell.md",
+      "lines": 315,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/sidebar-right.md",
+      "target": "translations/ja/subsystems/sidebar-right.md",
+      "lines": 162,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/skills.md",
+      "target": "translations/ja/subsystems/skills.md",
+      "lines": 353,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/slots.md",
+      "target": "translations/ja/subsystems/slots.md",
+      "lines": 212,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/spill.md",
+      "target": "translations/ja/subsystems/spill.md",
+      "lines": 125,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/ssh.md",
+      "target": "translations/ja/subsystems/ssh.md",
+      "lines": 147,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/storage.md",
+      "target": "translations/ja/subsystems/storage.md",
+      "lines": 277,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/subagent.md",
+      "target": "translations/ja/subsystems/subagent.md",
+      "lines": 679,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/subprocess.md",
+      "target": "translations/ja/subsystems/subprocess.md",
+      "lines": 322,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/system-prompt.md",
+      "target": "translations/ja/subsystems/system-prompt.md",
+      "lines": 257,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/terminal.md",
+      "target": "translations/ja/subsystems/terminal.md",
+      "lines": 185,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/todo.md",
+      "target": "translations/ja/subsystems/todo.md",
+      "lines": 33,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/token-meter.md",
+      "target": "translations/ja/subsystems/token-meter.md",
+      "lines": 152,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/tools.md",
+      "target": "translations/ja/subsystems/tools.md",
+      "lines": 888,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/translation.md",
+      "target": "translations/ja/subsystems/translation.md",
+      "lines": 104,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/typert.md",
+      "target": "translations/ja/subsystems/typert.md",
+      "lines": 701,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/user-questions.md",
+      "target": "translations/ja/subsystems/user-questions.md",
+      "lines": 325,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/voice-input.md",
+      "target": "translations/ja/subsystems/voice-input.md",
+      "lines": 165,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/web-client.md",
+      "target": "translations/ja/subsystems/web-client.md",
+      "lines": 101,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/web-server.md",
+      "target": "translations/ja/subsystems/web-server.md",
+      "lines": 348,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/web.md",
+      "target": "translations/ja/subsystems/web.md",
+      "lines": 232,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/webhook.md",
+      "target": "translations/ja/subsystems/webhook.md",
+      "lines": 71,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/workflow.md",
+      "target": "translations/ja/subsystems/workflow.md",
+      "lines": 279,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/working-directory.md",
+      "target": "translations/ja/subsystems/working-directory.md",
+      "lines": 65,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/workspace.md",
+      "target": "translations/ja/subsystems/workspace.md",
+      "lines": 648,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/subsystems/worktrees.md",
+      "target": "translations/ja/subsystems/worktrees.md",
+      "lines": 128,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/testing.md",
+      "target": "translations/ja/testing.md",
+      "lines": 56,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/ui-radius.md",
+      "target": "translations/ja/ui-radius.md",
+      "lines": 118,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.1.7-rc.2/schedule-optional-bundle/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.1.7-rc.2/schedule-optional-bundle/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.1.7-rc.2/transcript-view-legacy-normal/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.1.7-rc.2/transcript-view-legacy-normal/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/account-sign-in-errors/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/account-sign-in-errors/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/bundled-python-tests/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/bundled-python-tests/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/primary-runtime-python-aliases/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/primary-runtime-python-aliases/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/remove-runtime-invariants/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/remove-runtime-invariants/guide.md",
+      "lines": 24,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/schedule-bundle-retired/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/schedule-bundle-retired/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.0-rc.2/subpath-plugin-display-manifest/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.0-rc.2/subpath-plugin-display-manifest/guide.md",
+      "lines": 28,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/deepseek-model-discovery/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/deepseek-model-discovery/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/desktop-test-auth-popup/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/desktop-test-auth-popup/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/experimental-package-composition/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/experimental-package-composition/guide.md",
+      "lines": 29,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/instruction-home-override/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/instruction-home-override/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/job-id-identity/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/job-id-identity/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/jsonl-persistence-plugin/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/jsonl-persistence-plugin/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/mock-messages-events/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/mock-messages-events/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/native-subagent-bundle-tools/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/native-subagent-bundle-tools/guide.md",
+      "lines": 32,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/new-session-generations/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/new-session-generations/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/plugin-option-placement/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/plugin-option-placement/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/python-optional-resources/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/python-optional-resources/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/python-ptc-sandbox/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/python-ptc-sandbox/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/session-title-adapters/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/session-title-adapters/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/session-title-provider-strategy/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/session-title-provider-strategy/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/ssh-helper-launch/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/ssh-helper-launch/guide.md",
+      "lines": 20,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/subagent-activations/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/subagent-activations/guide.md",
+      "lines": 60,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/subagent-preset-composition/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/subagent-preset-composition/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/team-direct-inbox/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/team-direct-inbox/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/terminal-command-labels/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/terminal-command-labels/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/tool-presentation-mode/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/tool-presentation-mode/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/web-listener-trust-config/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/web-listener-trust-config/guide.md",
+      "lines": 37,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.1/working-directory/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.1/working-directory/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/cordis-timer-wrappers/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/cordis-timer-wrappers/guide.md",
+      "lines": 25,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-identity-watch/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/deepseek-account-identity-watch/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/deepseek-account-model-catalog/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/deepseek-account-model-catalog/guide.md",
+      "lines": 28,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/desktop-font-size-shortcuts/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/desktop-font-size-shortcuts/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/from-default-profile-replaces-target/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/from-default-profile-replaces-target/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/operator-connect/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/operator-connect/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-azure-provider/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/pi-ai-azure-provider/guide.md",
+      "lines": 20,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/pi-ai-model-discovery/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/pi-ai-model-discovery/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/plugin-install-over-installed/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/plugin-install-over-installed/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/plugin-manager-view-fields/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/plugin-manager-view-fields/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/sdk-minimal-image-compaction/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/sdk-minimal-image-compaction/guide.md",
+      "lines": 33,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.2/stored-credentials-precedence/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.2/stored-credentials-precedence/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.3/plugin-engines-dsh/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.3/plugin-engines-dsh/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.4/account-notification-fields/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.4/account-notification-fields/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.4/model-switch-compaction/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.4/model-switch-compaction/guide.md",
+      "lines": 31,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-alpha.4/session-model-selection/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-alpha.4/session-model-selection/guide.md",
+      "lines": 29,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.1/agent-instructions-chain-budgets/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.1/agent-instructions-chain-budgets/guide.md",
+      "lines": 25,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.1/subagent-control-tools/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.1/subagent-control-tools/guide.md",
+      "lines": 24,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/approval-projection-dependency/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/approval-projection-dependency/guide.md",
+      "lines": 35,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/auto-review-shutdown/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/auto-review-shutdown/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/auto-review-user-sources/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/auto-review-user-sources/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/built-in-japanese/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/built-in-japanese/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/conditional-tools/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/conditional-tools/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/context-menu-services/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/context-menu-services/guide.md",
+      "lines": 24,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/cua-consent-storage/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/cua-consent-storage/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/cua-preset-scope/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/cua-preset-scope/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/cua-relative-coordinates/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/cua-relative-coordinates/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/file-drag-callbacks/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/file-drag-callbacks/guide.md",
+      "lines": 20,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/headless-policy-composition/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/headless-policy-composition/guide.md",
+      "lines": 28,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/model-badge-package-removal/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/model-badge-package-removal/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/new-session-blank-reuse/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/new-session-blank-reuse/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/node-24/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/node-24/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/official-bundle-lists/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/official-bundle-lists/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/persistent-terminal-controls/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/persistent-terminal-controls/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/pi-ai-default-capacities/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/pi-ai-default-capacities/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/pi-ai-model-catalog/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/pi-ai-model-catalog/guide.md",
+      "lines": 54,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/pi-ai-protocol-replay/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/pi-ai-protocol-replay/guide.md",
+      "lines": 31,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/ptc-script-format/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/ptc-script-format/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/sdk-desktop-context/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/sdk-desktop-context/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/sdk-minimal-checkpoints/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/sdk-minimal-checkpoints/guide.md",
+      "lines": 19,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/session-projection-handles/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/session-projection-handles/guide.md",
+      "lines": 25,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/session-store-writes/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/session-store-writes/guide.md",
+      "lines": 26,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/tool-executor-plugins/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/tool-executor-plugins/guide.md",
+      "lines": 36,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/web-fetch-private-destinations/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/web-fetch-private-destinations/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.2/webserver-index-peer/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.2/webserver-index-peer/guide.md",
+      "lines": 18,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/attachment-read-access/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/attachment-read-access/guide.md",
+      "lines": 24,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/computer-use-helper-permissions/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/computer-use-helper-permissions/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/cua-bundle-id-consent/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/cua-bundle-id-consent/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/generated-worktree-names/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/generated-worktree-names/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/independent-session-forks/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/independent-session-forks/guide.md",
+      "lines": 24,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/ptc-caller-cancellation/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/ptc-caller-cancellation/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/session-follow-activation/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/session-follow-activation/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.3/web-file-downloads/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.3/web-file-downloads/guide.md",
+      "lines": 20,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.4/model-listing-refresh/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.4/model-listing-refresh/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.1-rc.4/reasoning-body-props/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.1-rc.4/reasoning-body-props/guide.md",
+      "lines": 21,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/context-menu-target/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/context-menu-target/guide.md",
+      "lines": 20,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/forge-git-permissions/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/forge-git-permissions/guide.md",
+      "lines": 22,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/llm-request-purpose-declarations/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/llm-request-purpose-declarations/guide.md",
+      "lines": 30,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/schedule-agent-tools/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/schedule-agent-tools/guide.md",
+      "lines": 38,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/schedule-remote-host-tasks/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/schedule-remote-host-tasks/guide.md",
+      "lines": 23,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/upgrade-guide/v0.2.2-alpha.2/sdk-run-commands/guide.md",
+      "target": "translations/ja/upgrade-guide/v0.2.2-alpha.2/sdk-run-commands/guide.md",
+      "lines": 25,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/basic/config.md",
+      "target": "translations/ja/user/develop/basic/config.md",
+      "lines": 107,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/basic/index.md",
+      "target": "translations/ja/user/develop/basic/index.md",
+      "lines": 145,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/basic/publish.md",
+      "target": "translations/ja/user/develop/basic/publish.md",
+      "lines": 192,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/basic/tool.md",
+      "target": "translations/ja/user/develop/basic/tool.md",
+      "lines": 53,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/framework/events.md",
+      "target": "translations/ja/user/develop/framework/events.md",
+      "lines": 144,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/framework/index.md",
+      "target": "translations/ja/user/develop/framework/index.md",
+      "lines": 138,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/framework/service.md",
+      "target": "translations/ja/user/develop/framework/service.md",
+      "lines": 149,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/practice/dynamic-cordis.md",
+      "target": "translations/ja/user/develop/practice/dynamic-cordis.md",
+      "lines": 16,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/practice/index.md",
+      "target": "translations/ja/user/develop/practice/index.md",
+      "lines": 156,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/develop/practice/llm-adapter.md",
+      "target": "translations/ja/user/develop/practice/llm-adapter.md",
+      "lines": 190,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/github-review.md",
+      "target": "translations/ja/user/guide/github-review.md",
+      "lines": 100,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/index.md",
+      "target": "translations/ja/user/guide/index.md",
+      "lines": 32,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/mcp-memory.md",
+      "target": "translations/ja/user/guide/mcp-memory.md",
+      "lines": 102,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/network-proxy.md",
+      "target": "translations/ja/user/guide/network-proxy.md",
+      "lines": 86,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/plugin-market.md",
+      "target": "translations/ja/user/guide/plugin-market.md",
+      "lines": 149,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/providers.md",
+      "target": "translations/ja/user/guide/providers.md",
+      "lines": 232,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/public-deployments.md",
+      "target": "translations/ja/user/guide/public-deployments.md",
+      "lines": 38,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/python-sdk.md",
+      "target": "translations/ja/user/guide/python-sdk.md",
+      "lines": 186,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/guide/schedule.md",
+      "target": "translations/ja/user/guide/schedule.md",
+      "lines": 99,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/user/index.md",
+      "target": "translations/ja/user/index.md",
+      "lines": 12,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/web-styling.md",
+      "target": "translations/ja/web-styling.md",
+      "lines": 52,
+      "status": "done",
+      "generated": false
+    },
+    {
+      "source": "docs/agent-lifecycle.md",
+      "target": "translations/ja/agent-lifecycle.md",
+      "lines": 93,
+      "status": "done",
+      "generated": true
+    },
+    {
+      "source": "docs/tool-execution-pipeline.md",
+      "target": "translations/ja/tool-execution-pipeline.md",
+      "lines": 66,
+      "status": "done",
+      "generated": true
+    }
+  ]
+}
